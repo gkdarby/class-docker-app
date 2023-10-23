@@ -1,2 +1,1 @@
-# class-docker-app
-repository
+# clovis-dh-lab-images
